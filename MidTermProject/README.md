@@ -45,10 +45,10 @@ Code file: `src/04_prediction_as_service.py`
 ## Dependency and enviroment management
 Pipefile location: `Pipfile`, `Pipfile.lock`
 To install and setup the enviornment:
-> cd MidTermProject
-> pipenv install          # reads Pipfile and Pipfile.lock and installs all deps
-> pipenv shell            # to activate the enviornment
-> exit                    # to exit the enviornment
+- cd MidTermProject
+- pipenv install          # reads Pipfile and Pipfile.lock and installs all deps
+- pipenv shell            # to activate the enviornment
+- exit                    # to exit the enviornment
 
 **Setup a enviornment with any pipfile**
 - Change directory to the project directory
