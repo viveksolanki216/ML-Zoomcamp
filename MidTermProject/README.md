@@ -1,7 +1,7 @@
 # Medical Insurance Cost Prediction Model
 
 ## Problem Description
-To predict medical insurance cost for a person using his/her demographics, health information
+To predict medical insurance cost for a person using a person's demographics, health information
 
 #### Where it helps:
 - For insurance companies, to decide on annual premium for medical insurance
@@ -63,6 +63,7 @@ To install and setup the enviornment:
     - if want to exit run "exit"
 
 ## Containerization
-Code file: `Dockerfile`
+Not Done
 
 ## Cloud Deployment
+Not Done
